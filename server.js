@@ -12,7 +12,7 @@ import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import path from 'path';
 
-// Custom Imports
+// Custom Import
 import jobRouter from './routers/jobRouter.js';
 import authRouter from './routers/authRouter.js';
 import userRouter from './routers/userRouter.js';
